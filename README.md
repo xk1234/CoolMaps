@@ -1,4 +1,4 @@
-UnfoldingMaps is a Java project designed to create a map visualization map of the earthquakes and airports within the world. This visualization is based on an existing work, but has been created in Java.
+CoolMaps is a Java project designed to create a map visualization map of the earthquakes and airports within the world. This visualization is based on an existing work, but has been created in Java.
 
 The API will enable you to (1) create a map and customize its appearance; (2) create overlays showing your location (or any point on earth), earthquakes, or airports. One can zoom into areas of interest so that one can see exactly where and when these events occurred.
 
